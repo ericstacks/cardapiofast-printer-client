@@ -5,8 +5,8 @@ Cliente desktop (Windows/Linux) que o lojista instala no computador da loja para
 Baixe o instalador mais recente em [Releases](https://github.com/ericstacks/cardapiofast-printer-client/releases/latest).
 
 <!-- ULTIMAS-MUDANCAS:START -->
-## Últimas mudanças (v0.1.9)
+## Últimas mudanças (v0.1.10)
 
-- 0.1.9
-- correção impressão fase3
+- 0.1.10
+- correção impressão fase4
 <!-- ULTIMAS-MUDANCAS:END -->
